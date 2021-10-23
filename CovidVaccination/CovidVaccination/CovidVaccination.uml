@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:UMLLabProfile="http:///schemas/UMLLabProfile/NS/0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http:///schemas/UMLLabProfile/NS/0 pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile">
+  <uml:Model xmi:id="_9WQMgC1JEeykZNmBBnI0hA" name="CovidVaccination">
+    <eAnnotations xmi:id="_AhwfMC1KEeykZNmBBnI0hA" source="http://ns.yatta.de/umllab">
+      <contents xmi:type="ecore:EAnnotation" xmi:id="_AhwfMS1KEeykZNmBBnI0hA" source="codegen">
+        <details xmi:id="_AhwfMi1KEeykZNmBBnI0hA" key="codegenDirectory" value="/CovidVaccination/src"/>
+        <details xmi:id="_AoD7gC1KEeykZNmBBnI0hA" key="observedFolders" value="/CovidVaccination/src"/>
+        <details xmi:id="_H3-e0C1KEeykZNmBBnI0hA" key="AssociatedSourceCode" value="/CovidVaccination/src/covidvaccination/CovidVaccination.java;1642984753/1;/CovidVaccination/src/covidvaccination/Vaccine.java;3849547737/1;"/>
+      </contents>
+    </eAnnotations>
+    <elementImport xmi:id="_HK4vUC1KEeykZNmBBnI0hA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+    </elementImport>
+    <elementImport xmi:id="_HK4vUS1KEeykZNmBBnI0hA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#byte"/>
+    </elementImport>
+    <elementImport xmi:id="_HK5WYC1KEeykZNmBBnI0hA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#char"/>
+    </elementImport>
+    <elementImport xmi:id="_HK5WYS1KEeykZNmBBnI0hA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+    </elementImport>
+    <elementImport xmi:id="_HK5WYi1KEeykZNmBBnI0hA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+    </elementImport>
+    <elementImport xmi:id="_HK59cC1KEeykZNmBBnI0hA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+    </elementImport>
+    <elementImport xmi:id="_HK59cS1KEeykZNmBBnI0hA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+    </elementImport>
+    <elementImport xmi:id="_HK59ci1KEeykZNmBBnI0hA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#short"/>
+    </elementImport>
+    <elementImport xmi:id="_HK7LkC1KEeykZNmBBnI0hA">
+      <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </elementImport>
+    <packagedElement xmi:type="uml:Package" xmi:id="_HMstMC1KEeykZNmBBnI0hA" name="covidvaccination">
+      <packagedElement xmi:type="uml:Class" xmi:id="_HMza4C1KEeykZNmBBnI0hA" name="CovidVaccination">
+        <ownedBehavior xmi:type="uml:OpaqueBehavior" xmi:id="_HQyjAC1KEeykZNmBBnI0hA" name="main" specification="_HNglgC1KEeykZNmBBnI0hA">
+          <ownedParameter xmi:id="_HQyjAS1KEeykZNmBBnI0hA" name="args">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_HQyjAi1KEeykZNmBBnI0hA" value="*"/>
+          </ownedParameter>
+          <language>java</language>
+          <body>// TODO Auto-generated method stub
+
+	</body>
+        </ownedBehavior>
+        <ownedOperation xmi:id="_HNglgC1KEeykZNmBBnI0hA" name="main" isStatic="true" method="_HQyjAC1KEeykZNmBBnI0hA">
+          <ownedParameter xmi:id="_HNglgS1KEeykZNmBBnI0hA" name="args">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_HOF0UC1KEeykZNmBBnI0hA" value="*"/>
+          </ownedParameter>
+        </ownedOperation>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Interface" xmi:id="_KlGBAC15EeykZNmBBnI0hA" name="Vaccine"/>
+    </packagedElement>
+    <profileApplication xmi:id="_Ah1XsC1KEeykZNmBBnI0hA">
+      <eAnnotations xmi:id="_AjSJMC1KEeykZNmBBnI0hA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile-Annotation_2-UMLLabProfile"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://UMLLAB_PROFILES/UMLLab.profile.uml#UMLLabProfile"/>
+    </profileApplication>
+  </uml:Model>
+  <UMLLabProfile:TargetLanguage xmi:id="_AmqNUC1KEeykZNmBBnI0hA" base_Package="_9WQMgC1JEeykZNmBBnI0hA">
+    <languageName>java</languageName>
+  </UMLLabProfile:TargetLanguage>
+</xmi:XMI>
